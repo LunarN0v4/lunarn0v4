@@ -15,6 +15,7 @@ I'm a student in Grade 8!
   
 > ### My contributions (Nova the Raven):  
 > "Bitch I always elevate, I'm the devil, seal your fate. Kill the game I decimate."  
+
 [Destroyed malware (stealer) named "MaxsHub-V2.1", which is a stealer that runs on startup, the "creators" are idiots](https://tria.ge/231203-fd1vashd46/behavioral1)  
   
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★  
