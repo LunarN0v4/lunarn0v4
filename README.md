@@ -19,6 +19,7 @@ I'm kind of a screw-up anyways, don't worry about me.
 > "Bitch I always elevate, I'm the devil, seal your fate. Kill the game I decimate."  
 
 [Destroyed malware (stealer) named "MaxsHub-V2.1", which is a stealer that runs on startup, the "creators" are idiots](https://tria.ge/231203-fd1vashd46/behavioral1)  
+["Accidentally" found out that a Trove hack was actually malware, oops](https://github.com/LunarN0v4/SpectrumLoader/)
   
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★  
   
