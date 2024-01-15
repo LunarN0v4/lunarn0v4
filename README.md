@@ -2,7 +2,7 @@
 
 I'm your average developer who works in multiple areas of software engineering.  
 I hate conspiracy theorists and love throwing toasters into bathtubs for some reason.  
-I'm a student in Grade 8!  
+I'm a student in Grade 9!  
 Unfortunately, I'm going through a large period of extreme burnout, so don't expect much from me.  
 I'm kind of a screw-up anyways, don't worry about me.  
 
