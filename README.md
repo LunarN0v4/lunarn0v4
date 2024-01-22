@@ -1,10 +1,9 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=Hiiii%2C+I'm+Nova+Notepad!)](https://nova.zeusteam.dev/)
 
+I'm a student in grade 9 who hates the App Store (by Apple) with a passion.  
 I'm your average developer who works in multiple areas of software engineering.  
-I hate conspiracy theorists and love throwing toasters into bathtubs for some reason.  
-I'm a student in Grade 9!  
-Unfortunately, I'm going through a large period of extreme burnout, so don't expect much from me.  
-I'm kind of a screw-up anyways, don't worry about me.  
+I obliterate malware and make software.  
+I believe entirely in the open-source mission.  
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=zeusteam.dev;nova.zeusteam.dev)](https://nova.zeusteam.dev/)
 
