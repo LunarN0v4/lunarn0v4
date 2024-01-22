@@ -11,13 +11,6 @@ I believe entirely in the open-source mission.
 
 > ### Languages I code in: 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=Python;HTML;CSS;JS+(kinda);C%23)](https://nova.zeusteam.dev/)
- 
-★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
-  
-> ### My contributions (Nova the Raven):  
-> "Bitch I always elevate, I'm the devil, seal your fate. Kill the game I decimate."  
-
-[Destroyed malware (stealer) named "MaxsHub-V2.1", which is a stealer that runs on startup, the "creators" are idiots](https://tria.ge/231203-fd1vashd46/behavioral1)  
   
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★  
   
