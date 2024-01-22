@@ -1,3 +1,7 @@
+I'm now MIA.
+
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=Hiiii%2C+I'm+Nova+Notepad!)](https://zeusteam.dev/)  
 
 I'm a student in grade 9 who hates the App Store (by Apple) with a passion.  
