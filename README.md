@@ -1,5 +1,3 @@
-I'm now MIA.
-
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=Hiiii%2C+I'm+Nova+Notepad!)](https://zeusteam.dev/)  
@@ -18,6 +16,6 @@ I believe entirely in the open-source mission.
   
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★  
   
-#### Sounds crazy, but I usually learn everything that I know as I go and don't know it from the get-go, usually by looking at other people's code for similar stuff! (like this page, which was "borrowed" from meowmade)  
+#### Sounds crazy, but I usually learn everything that I know as I go and don't know it from the get-go, usually by looking at other people's code for similar stuff! [(I used to have credit here, but the "creator" got butthurt)](https://github.com/LunarN0v4/lunarn0v4/issues/1)  
 Visitor count:  
 <img align="left" src="https://profile-counter.glitch.me/LunarN0v4/count.svg" />  
