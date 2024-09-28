@@ -10,7 +10,7 @@ I'm a full-stack and software developer creating tools for other developers.
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★  
 
 > ### Languages I code in: 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=Python;HTML;CSS;JS;TS;C%23)](https://zeusteam.dev/)  
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=Python;HTML;CSS;JavaScript;TypeScript;C%23;C%2B%2B)](https://zeusteam.dev/)  
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★  
 
