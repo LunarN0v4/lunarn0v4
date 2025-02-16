@@ -5,7 +5,7 @@
 I break shit, I hack shit, and I make shit.  
 I'm a full-stack and software developer creating tools for other developers.  
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=zeusteam.dev;unleaked.me)](https://zeusteam.dev/)  
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=zeusteam.dev;xivi.org)](https://zeusteam.dev/)  
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★  
 
