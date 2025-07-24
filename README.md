@@ -3,14 +3,20 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=Hiiii%2C+I'm+Nova!)](https://zeusteam.dev/)  
 
 I break shit, I hack shit, and I make shit.  
-I'm a full-stack and software developer creating tools for other developers.  
+I'm a full-stack and software developer creating easy and snappy tools for others to use.  
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=zeusteam.dev;xivi.org)](https://zeusteam.dev/)  
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=zeusteam.dev)](https://zeusteam.dev/)  
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★  
 
-> ### Languages I code in: 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=Python;HTML;CSS;JavaScript;TypeScript;C%23;C%2B%2B)](https://zeusteam.dev/)  
+> ### Languages I code in 
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=Python;HTML;CSS;JavaScript;TypeScript;C%23;C%2B%2B;Rust;Shell%20%28lol%29)](https://zeusteam.dev/)  
+
+> ### Tools of the trade
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=JetBrains%20Fleet;RustRover;WebStorm;IntelliJ%20IDEA%20Ultimate;Rider;PyCharm)](https://zeusteam.dev/)  
+
+> ### Contact me!
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=Keybase%3A%20%40novadev;Matrix%3A%20%40nova%3Azeusteam.dev;Email%3A%20nova%40zeusteam.dev;)](https://zeusteam.dev/)  
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★  
 
