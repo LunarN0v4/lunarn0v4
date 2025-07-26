@@ -10,7 +10,7 @@ I'm a full-stack and software developer creating easy and snappy tools for other
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★  
 
 > ### Languages I code/script/write in 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=Python;HTML;CSS;JavaScript;TypeScript;C%23;C%2B%2B;Rust;Shell%20%28lol%29)](https://zeusteam.dev/)  
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=TypeScript;Rust;JavaScript;Python;HTML;CSS;C%23;C%2B%2B;Shell%20%28lol%29)](https://zeusteam.dev/)  
 
 > ### Tools of the trade
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=8200FF&random=false&width=435&lines=JetBrains%20Fleet;RustRover;WebStorm;IntelliJ%20IDEA%20Ultimate;Rider;PyCharm)](https://zeusteam.dev/)  
